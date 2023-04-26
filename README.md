@@ -9,7 +9,7 @@ pip install flask-sqlalchemy
 
 2.Download the code 
 
-3.open xampp control panel or mysql workbrench
+3.Open xampp control panel or mysql workbrench
 
 4.Add databse username and password in app.py file
 ```python
@@ -21,7 +21,7 @@ password=""
 ```python
 python app.py
 ```
-6.export the task.sql database file in your mysql database
+6.Import the task.sql database file in your mysql database
 
 7.The API should now be available at http://localhost:5000/. You can test the endpoints using a tool like curl or a REST client like Postman.
 
