@@ -1,6 +1,8 @@
 # To use the code, you can follow these steps:
 
 1.Install the required dependencies:
+
+```python
 pip install flask
 pip install flask-sqlalchemy
 
@@ -10,6 +12,7 @@ pip install flask-sqlalchemy
 3.open xampp control panel or mysql workbrench
 
 4.Run the code 
+```python
 python app.py
 
 5.export the task.sql database file in your mysql database
