@@ -5,7 +5,7 @@
 ```python
 pip install flask
 pip install flask-sqlalchemy
-
+```
 
 2.Download the code 
 
@@ -14,7 +14,7 @@ pip install flask-sqlalchemy
 4.Run the code 
 ```python
 python app.py
-
+```
 5.export the task.sql database file in your mysql database
 
 6.The API should now be available at http://localhost:5000/. You can test the endpoints using a tool like curl or a REST client like Postman.
