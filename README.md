@@ -1,4 +1,4 @@
-#To use the code, you can follow these steps:
+# To use the code, you can follow these steps:
 
 1.Install the required dependencies:
 pip install flask
@@ -21,7 +21,6 @@ python app.py
 Here are some example curl commands that you can use to test the API:
 
 To get all users:
-
 curl http://localhost:5000/users
 
 To get a specific user by ID:
